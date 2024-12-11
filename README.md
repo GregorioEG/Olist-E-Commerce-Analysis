@@ -21,6 +21,7 @@ These are the Contents we'll cover.
   9. Sellers
   10. Lead Conversion
 
+[Data source: Olist E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 The Dataset has the following schema.
 
