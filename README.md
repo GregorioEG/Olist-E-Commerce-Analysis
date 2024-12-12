@@ -35,7 +35,7 @@ These are the Contents we'll cover.
       - Review scores vs Sales
       - Number of sellers by orders
       - Delivery time by seller order volume
-  |10. Lead Conversion
+  10. Lead Conversion
 
 [Data source: Olist E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
