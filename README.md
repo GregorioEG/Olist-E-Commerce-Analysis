@@ -7,19 +7,35 @@ This dataset, published by Olist, includes 99,441 orders spanning from March 201
 The data is anonymized, meaning it doesn't include names of buyers, sellers, or products.
 
 In the 'Queries' folder you can find all the SQL queries used in the analysis.
-In the notebook file we'll explore some of their fields. 
+In the notebook file called "Olist2.ipynb" we'll explore some of their fields. 
 These are the Contents we'll cover.
 
   1. Number of orders
+      - Count the number of daily orders
+      - Distribution of sales over the week and hours
+      - Geographic distribution
   2. Order Prices
+      - Average order price
   3. Product Categories
+      - Sales by category
+      - Distribution of product weight by category
   4. Sales Prediction
+      - Sales Forecast for a few categories
+      - Linear regresion
   5. Order Delivery
-  6. Order REviews
+  6. Order Reviews
+      - Distribution of reviews scores
   7. Customer Segmentation
+      - RFM method and scores
+      - RFM Segmentation of customers
+      - Ove Time vs Repeat Customers
   8. Product affinity
+      - What products are usually bought together
   9. Sellers
-  10. Lead Conversion
+      - Review scores vs Sales
+      - Number of sellers by orders
+      - Delivery time by seller order volume
+  |10. Lead Conversion
 
 [Data source: Olist E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
