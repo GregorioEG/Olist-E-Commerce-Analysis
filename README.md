@@ -10,7 +10,7 @@ In the 'Queries' folder you can find all the SQL queries used in the analysis.
 In the notebook file called "Olist2.ipynb" we'll explore some of their fields. 
 These are the Contents we'll cover.
 
-  1. [Number of orders] (https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/1.%20Number_of_orders.ipynb)
+  1. [Number of orders](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/1.%20Number_of_orders.ipynb)
       - Count the number of daily orders
       - Distribution of sales over the week and hours
       - Geographic distribution
