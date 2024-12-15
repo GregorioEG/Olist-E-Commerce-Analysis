@@ -15,27 +15,26 @@ These are the Contents we'll cover.
       - Distribution of sales over the week and hours
       - Geographic distribution
   2. [Order Prices](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/2.%20Order_prices.ipynb)
-      - ==Average order price==
+      - Average order price
   3. [Product Categories](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/3.%20Product_categories.ipynb)
       - Sales by category
       - Distribution of product weight by category
-  4. Sales Prediction
+  4. [Sales Prediction](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/4.%20Sales_prediction.ipynb)
       - Sales Forecast for a few categories
       - Linear regresion
-  5. Order Delivery
-  6. Order Reviews
+  5. [Order Reviews](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/5.%20Order_reviews.ipynb)
       - Distribution of reviews scores
-  7. Customer Segmentation
+  6. [Customer Segmentation](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/6.%20Customer_segmentation.ipynb)
       - RFM method and scores
       - RFM Segmentation of customers
       - Ove Time vs Repeat Customers
-  8. Product affinity
+  7. [Product affinity](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/7.%20Product_affinity.ipynb)
       - What products are usually bought together
-  9. Sellers
+  8. [Sellers](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/8.%20Sellers.ipynb)
       - Review scores vs Sales
       - Number of sellers by orders
       - Delivery time by seller order volume
-  10. Lead Conversion
+  9. [Lead Conversion](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/9.%20Leads.ipynb)
 
 [Data source: Olist E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
