@@ -14,9 +14,9 @@ These are the Contents we'll cover.
       - Count the number of daily orders
       - Distribution of sales over the week and hours
       - Geographic distribution
-  2. Order Prices
-      - Average order price
-  3. Product Categories
+  2. [Order Prices](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/2.%20Order_prices.ipynb)
+      - ==Average order price==
+  3. [Product Categories](https://github.com/GregorioEG/Olist-E-Commerce-Analysis/blob/main/Notebooks/3.%20Product_categories.ipynb)
       - Sales by category
       - Distribution of product weight by category
   4. Sales Prediction
